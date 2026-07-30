@@ -1,7 +1,7 @@
 # HECA for Tomato Leaf Disease Classification
 
 ## Overview
-Implementation and evaluation of HECA, CBAM, Channel Attention, and Spatial Attention modules on MobileNetV3 for tomato leaf disease classification.
+Implementation and evaluation of Research based HECA, CBAM, Channel Attention, and Spatial Attention modules on MobileNetV3 for tomato leaf disease classification.
 
 HECA achieved the best performance among all evaluated models, with a Macro F1-score of 0.95 and a Weighted F1-score of 0.96.
 
@@ -24,4 +24,5 @@ https://www.kaggle.com/datasets/yusufmurtaza01/tomato-leaf-disease
 
 ## Additional Evaluiation Logs and Note Book Link:
 Model Logs: https://www.kaggle.com/models/redheadcoffee/heca-attention-models
+  
 Kaggle Notebook: https://www.kaggle.com/code/redheadcoffee/heca-accuracy-and-loss-and-roc-curves
