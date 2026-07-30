@@ -1,6 +1,0 @@
-Model,Accuracy,Macro_F1,Weighted_F1
-MobileNetV3,0.8938,0.88,0.89
-MobileNetV3 + SA,0.8961,0.88,0.9
-MobileNetV3 + CA,0.9234,0.91,0.92
-MobileNetV3 + CBAM,0.9227,0.91,0.92
-HECA,0.9596,0.95,0.96

@@ -1,2 +1,0 @@
-Model,Train_Accuracy,Val_Accuracy,Macro_F1,Weighted_F1
-MobileNetV3,0.8711,0.8938,0.88,0.89
