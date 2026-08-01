@@ -1,4 +1,4 @@
-# 🌽 HECA: Hybrid Efficient Channel Attention for Maize Disease Classification
+# HECA: Hybrid Efficient Channel Attention for Maize Disease Classification
 
 > **Implementation and evaluation of Hybrid Efficient Channel Attention (HECA) integrated with MobileNetV3 for automated maize leaf disease classification.**
 
